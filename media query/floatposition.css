@@ -1,0 +1,22 @@
+
+.li,.ri,.le,.re{border-radius: 6px;
+border:2px solid rgb(131, 212, 244);
+background-color:rgb(131, 212, 244);}
+div{
+    margin:20px;
+}
+img{border:2px solid rgb(131, 212, 244);
+border-radius:5px;}
+     
+#a,#c{ margin:15px;
+    float:left;
+
+}
+#b,#d{margin:15px;
+    float:right;
+
+}
+ div.ri h1{
+    float:right;
+    
+}
